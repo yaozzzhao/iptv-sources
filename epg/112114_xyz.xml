@@ -62445,6 +62445,9 @@
 	<programme channel="newtv超级体育" start="20240929103500 +0800" stop="20240929105500 +0800">
 		<title lang="zh">艺术里的奥林匹克</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20240929110000 +0800" stop="20240929120000 +0800">
+		<title lang="zh">2024年世乒联大满贯赛(北京站)-第1轮1</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -62619,6 +62622,9 @@
 	<programme channel="newtv精品纪录" start="20240929104000 +0800" stop="20240929105500 +0800">
 		<title lang="zh">02_痴狂轮滑 骆垠材</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20240929105500 +0800" stop="20240929110900 +0800">
+		<title lang="zh">03_寻味人生 唐敏</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -62702,6 +62708,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20240929102000 +0800" stop="20240929105200 +0800">
 		<title lang="zh">41_谍战深海之惊蛰</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20240929105200 +0800" stop="20240929114100 +0800">
+		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -62850,6 +62859,9 @@
 	<programme channel="newtv动作电影" start="20240929100500 +0800" stop="20240929105400 +0800">
 		<title lang="zh">Vigray墨脱石多功能养生锅-渠道（右）</title>
 	</programme>
+	<programme channel="newtv动作电影" start="20240929105400 +0800" stop="20240929123900 +0800">
+		<title lang="zh">乔纳森</title>
+	</programme>
 	<channel id="newtv怡伴健康">
 		<display-name lang="zh">NEWTV怡伴健康</display-name>
 	</channel>
@@ -62894,6 +62906,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20240929102200 +0800" stop="20240929105900 +0800">
 		<title lang="zh">出格的视频</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20240929105900 +0800" stop="20240929114300 +0800">
+		<title lang="zh">33_好妻子</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
