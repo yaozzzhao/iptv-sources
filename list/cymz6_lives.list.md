@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**
+# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -6,4 +6,4 @@
 | --- | ------------ | ---- | ------ |
 | 1 | 宁夏卫视 | IPv4 直链 | <http://113.57.93.165:9900/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0> |
 
-Updated at **Mon Jul 21 2025 03:41:23 GMT+0000 (Coordinated Universal Time)**
+Updated at **Mon Jul 21 2025 04:39:16 GMT+0000 (Coordinated Universal Time)**
