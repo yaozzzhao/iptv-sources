@@ -1,4 +1,4 @@
-# List for **cymz6/AutoIPTV-Hotel lives**(Rollback)
+# List for **cymz6/AutoIPTV-Hotel lives**
 
 > M3U: [cymz6_lives.m3u](/cymz6_lives.m3u), TXT: [cymz6_lives.txt](/txt/cymz6_lives.txt)
 
@@ -29,4 +29,4 @@
 | 23 | 陕西都市青春 | IPv4 直链 | <http://36.40.236.130:9999/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0> |
 | 24 | 陕西银铃 | IPv4 直链 | <http://36.40.236.130:9999/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0> |
 
-Updated at **Tue Oct 07 2025 01:08:08 GMT+0000 (Coordinated Universal Time)**
+Updated at **Tue Oct 07 2025 02:54:45 GMT+0000 (Coordinated Universal Time)**
